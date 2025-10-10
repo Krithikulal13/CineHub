@@ -1,6 +1,6 @@
 # CineHub 🎬
 
-CineHub is a modern, dark-themed movie website that allows users to explore the latest movies, watch trending trailers, and maintain a personalized watchlist. Built with *HTML* and *CSS*, it offers a sleek and interactive browsing experience.
+CineHub is a modern, dark-themed movie website that allows users to explore the latest movies, watch trending trailers, and maintain a personalized watchlist. Built with HTML and CSS, it offers a sleek and interactive browsing experience.
 
 ---
 
