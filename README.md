@@ -11,7 +11,6 @@ CineHub is a modern, dark-themed movie website that allows users to explore the 
 * 🖼 *Watchlist:* Grid display of selected movies for quick access.
 * 🖤 *Interactive Navigation:* Hover effects for menu items and smooth scrolling.
 ---
-
 ## 🛠 Technologies Used
 
 * *HTML* 
